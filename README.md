@@ -1,6 +1,5 @@
-# Cohere Hackathon, Team PakDev
-## Logo
-![image (8)](https://user-images.githubusercontent.com/81191657/216105205-ecee205d-5dd6-42ba-9b55-84afe495e157.png)
+# JobAdvocate
+
 
 🚀 Presents
 ## Project name: JobAdvocate
