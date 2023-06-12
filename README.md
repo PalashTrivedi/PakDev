@@ -7,8 +7,6 @@
 # Presentation Slides:
 https://docs.google.com/presentation/d/1-1xdxv0dPYLG_GFRaQJnLoJiRIJI-upS/edit?usp=sharing&ouid=117611085821755169187&rtpof=true&sd=true
 
-# Video Submission link: 
-
 AI Assistant to help/support user applying job
 ------------
 ## Sub Products:
